@@ -32,7 +32,7 @@ php artisan serve
 
 * Website: Rafael Marcello
 * Github: [@RafaelMarcello](https://github.com/RafaelMarcello)
-* LinkedIn: [@rafael-marcello](https://linkedin.com/in/www.linkedin.com\/in\/rafael-marcello)
+* LinkedIn: [@rafael-marcello](https://linkedin.com/in/rafael-marcello)
 
 ## Show your support
 
